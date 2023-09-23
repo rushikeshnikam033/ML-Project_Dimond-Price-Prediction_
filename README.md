@@ -3,13 +3,7 @@
 This project aims to predict the price of diamonds based on various features and characteristics. By leveraging machine learning techniques, we can analyze a dataset of diamond attributes and their corresponding prices to develop a predictive model.
 
 - Got 93.68% Accuracy on this Project from Linear Regression.
-#
 
-#[GitHub Project Link](https://github.com/shubh-vedi/FSDS_Diamond_Price_Prediction_Project/tree/main)
-
-#[LinkedIN Post Link](https://www.linkedin.com/posts/shubham-vedi-32ab7317b_github-diamonds-priceprediction-activity-7079791383674257408-yQZ5?utm_source=share&utm_medium=member_desktop)
-
-#
 
 ## Project Overview
 Diamonds are valuable gemstones, and their prices depend on a combination of factors such as carat weight, cut quality, color grade, and clarity grade. This project aims to build a predictive model that can estimate the price of a diamond given its characteristics.
