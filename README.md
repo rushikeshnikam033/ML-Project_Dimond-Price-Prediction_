@@ -5,9 +5,9 @@ This project aims to predict the price of diamonds based on various features and
 - Got 93.68% Accuracy on this Project from Linear Regression.
 #
 
-[GitHub Project Link](https://github.com/shubh-vedi/FSDS_Diamond_Price_Prediction_Project/tree/main)
+#[GitHub Project Link](https://github.com/shubh-vedi/FSDS_Diamond_Price_Prediction_Project/tree/main)
 
-[LinkedIN Post Link](https://www.linkedin.com/posts/shubham-vedi-32ab7317b_github-diamonds-priceprediction-activity-7079791383674257408-yQZ5?utm_source=share&utm_medium=member_desktop)
+#[LinkedIN Post Link](https://www.linkedin.com/posts/shubham-vedi-32ab7317b_github-diamonds-priceprediction-activity-7079791383674257408-yQZ5?utm_source=share&utm_medium=member_desktop)
 
 #
 
